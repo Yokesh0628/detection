@@ -1,0 +1,4 @@
+train: C:/Users/asus/yolov5/animal_dataset/images/train
+val: C:/Users/asus/yolov5/animal_dataset/images/val
+nc: 1  # Replace with the number of animal classes you have
+names: ['cheetah']  # Replace with your class names
